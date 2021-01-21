@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-music-player/static/css/main.0996b2a7.chunk.css",
+    "main.js": "/react-music-player/static/js/main.bbb29cac.chunk.js",
+    "main.js.map": "/react-music-player/static/js/main.bbb29cac.chunk.js.map",
+    "runtime-main.js": "/react-music-player/static/js/runtime-main.cc641b6c.js",
+    "runtime-main.js.map": "/react-music-player/static/js/runtime-main.cc641b6c.js.map",
+    "static/js/2.850e35b1.chunk.js": "/react-music-player/static/js/2.850e35b1.chunk.js",
+    "static/js/2.850e35b1.chunk.js.map": "/react-music-player/static/js/2.850e35b1.chunk.js.map",
+    "static/js/3.8496f79e.chunk.js": "/react-music-player/static/js/3.8496f79e.chunk.js",
+    "static/js/3.8496f79e.chunk.js.map": "/react-music-player/static/js/3.8496f79e.chunk.js.map",
+    "index.html": "/react-music-player/index.html",
+    "static/css/main.0996b2a7.chunk.css.map": "/react-music-player/static/css/main.0996b2a7.chunk.css.map",
+    "static/js/2.850e35b1.chunk.js.LICENSE.txt": "/react-music-player/static/js/2.850e35b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc641b6c.js",
+    "static/js/2.850e35b1.chunk.js",
+    "static/css/main.0996b2a7.chunk.css",
+    "static/js/main.bbb29cac.chunk.js"
+  ]
+}
