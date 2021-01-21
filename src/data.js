@@ -1,0 +1,98 @@
+import {v4 as uuidv4} from "uuid";
+
+function chillHop() {
+    return [
+        {
+            name: "ny90",
+            cover: "https://chillhop.com/wp-content/uploads/2020/12/7e98d3028a22ee7f16f6a9bfcdc2089f089777a5-1024x1024.jpg",
+            artist: "Ezzy",
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=9331",
+            color: ["#385891","#E78C9D"],
+            id: uuidv4(),
+            active: true,
+        },
+        {
+            name: "Hereafter",
+            cover: "https://chillhop.com/wp-content/uploads/2020/11/f78c39b4bb6313ddd0354bef896c591bfb490ff8-1024x1024.jpg",
+            artist: "Makzo",
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=11770",
+            color: ["#295C9E","#F49F67"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Sugarless",
+            cover: "https://chillhop.com/wp-content/uploads/2020/11/8a0c857ddad531279d0757f5362380a6837b1b69-1024x1024.jpg",
+            artist: "The Field Tapes, Aviino",
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=11243",
+            color: ["#DBE8DF","#779A77"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Snowstalgia",
+            cover: "https://chillhop.com/wp-content/uploads/2020/10/0e5bb63f838ff92eeac142aae944e9f678df13c9-1024x1024.jpg",
+            artist: "invention_",
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=10305",
+            color: ["#9074AB","#D6A0B8"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Les Mouvements d'Hiver",
+            cover: "https://chillhop.com/wp-content/uploads/2020/10/d2898bc0ef36b5d67d6793062d588d208a90421c-1024x1024.jpg",
+            artist: "L'Indécis, sadtoi",
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=10351",
+            color: ["#D24A70","#364B82"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "ny90",
+            cover: "https://chillhop.com/wp-content/uploads/2020/12/7e98d3028a22ee7f16f6a9bfcdc2089f089777a5-1024x1024.jpg",
+            artist: "Ezzy",
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=9331",
+            color: ["#385891","#E78C9D"],
+            id: uuidv4(),
+            active: true,
+        },
+        {
+            name: "Hereafter",
+            cover: "https://chillhop.com/wp-content/uploads/2020/11/f78c39b4bb6313ddd0354bef896c591bfb490ff8-1024x1024.jpg",
+            artist: "Makzo",
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=11770",
+            color: ["#295C9E","#F49F67"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Sugarless",
+            cover: "https://chillhop.com/wp-content/uploads/2020/11/8a0c857ddad531279d0757f5362380a6837b1b69-1024x1024.jpg",
+            artist: "The Field Tapes, Aviino",
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=11243",
+            color: ["#DBE8DF","#779A77"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Snowstalgia",
+            cover: "https://chillhop.com/wp-content/uploads/2020/10/0e5bb63f838ff92eeac142aae944e9f678df13c9-1024x1024.jpg",
+            artist: "invention_",
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=10305",
+            color: ["#9074AB","#D6A0B8"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Les Mouvements d'Hiver",
+            cover: "https://chillhop.com/wp-content/uploads/2020/10/d2898bc0ef36b5d67d6793062d588d208a90421c-1024x1024.jpg",
+            artist: "L'Indécis, sadtoi",
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=10351",
+            color: ["#D24A70","#364B82"],
+            id: uuidv4(),
+            active: false,
+        },
+    ];
+}
+
+export default chillHop;
