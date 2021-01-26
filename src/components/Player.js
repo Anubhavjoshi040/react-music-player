@@ -19,6 +19,8 @@ const Player = ({currentSong, isPlaying, setIsPlaying, audioRef, setSongInfo, so
             };
         }
      });
+
+     setSongs(newSongs);
     }
     //Event Handlers
     const playSongHandler = () => {
